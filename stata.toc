@@ -1,0 +1,3 @@
+v 3
+d Native DID2S package
+p fastdid2s Native implementation; see VALIDATION.md for tested scope
